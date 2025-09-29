@@ -95,8 +95,8 @@ const Navbar = () => {
         </div>
         {!isDashboardPage && (
           <p className="text-primary-200 hidden md:block">
-            "Descubra artistas incríveis de todas as áreas com nossa ferramenta
-            de busca avançada."
+            Descubra artistas incríveis de todas as áreas com nossa ferramenta
+            de busca avançada.
           </p>
         )}
         <div className="flex items-center gap-5">
